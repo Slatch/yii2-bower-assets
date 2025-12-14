@@ -8,6 +8,7 @@
         "bower-asset/jquery-ui": "*",
         "bower-asset/ace-builds": "*",
         "bower-asset/eonasdan-bootstrap-datetimepicker": "*",
-        "bower-asset/blueimp-file-upload": "*"
+        "bower-asset/blueimp-file-upload": "*",
+        "bower-asset/blueimp-load-image": "*"
     }
 }
