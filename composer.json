@@ -6,6 +6,7 @@
     "license": "MIT",
     "provide": {
         "bower-asset/jquery-ui": "*",
-        "bower-asset/ace-builds": "*"
+        "bower-asset/ace-builds": "*",
+        "bower-asset/eonasdan-bootstrap-datetimepicker"
     }
 }
